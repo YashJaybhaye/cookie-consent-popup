@@ -1,6 +1,6 @@
 # cookie-consent-popup
 
-<<<<<<< HEAD
+
 This project creates a cookie consent popup with "Accept" and "Deny" buttons. It uses local storage to prevent the popup from showing again once a choice is made. The project demonstrates basic DOM manipulation and event handling in JavaScript.
 
 ## Technologies used
@@ -26,4 +26,4 @@ Technologies used: HTML, CSS, JavaScript (DOM Manipulation & Local Storage).
 
 Project inspired by [roadmap.sh](https://roadmap.sh/projects/cookie-consent).
 
->>>>>>> 3301dd227c9777838258514b18d5ffc8444000cf
+
